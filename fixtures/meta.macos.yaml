@@ -1,0 +1,6 @@
+---
+documentclass: 'extarticle'
+classoption: 12pt
+mainfont: Palatino
+monofont: Menlo
+---
