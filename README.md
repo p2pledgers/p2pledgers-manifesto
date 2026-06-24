@@ -9,7 +9,7 @@ And they need to be neutered, to ensure they can no longer administer you out of
 
 The manifesto is published at:
 
-- <https://ddebernardy.substack.com/> [TODO]
+- <https://ddebernardy.substack.com/p/peer-to-peer-ledgers>
 
 - <https://arxiv.org/> [TODO]
 
