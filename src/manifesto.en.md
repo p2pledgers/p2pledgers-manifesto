@@ -120,11 +120,11 @@ If you'd like to contribute to, build on, or help promote the project, get in to
 
 And if you're a concerned individual who simply wants to share this or chip in, thank you! Your contribution makes a world of difference. The funds will be used to support my family while building the library and launching apps built around it.
 
-* Bank Wire: Email `ddebernardy@proton.me` for my details.
 * Monero: `41oExK A8wJWM pN9ccE HiwbgX ko5oTR KLEBPX gwGYve Qg6Jzx Aqkzvh DPb9Ed xYTARA 6RK3NV Ug3ZoY wdcDHB baJRFP CptGx`
 * Bitcoin: `bc1qvqlm8ena3sd536k0erpvxmwqzsw9t9k8spzgql`
 * Lightning: `ddebernardy@cake.cash`
 * Ethereum: `0x9d77b0721367CB7d818B09148D2C8332268D59A6`
 * Litecoin: `ltc1q0fmrgenmx8vrh9n0hsnefj26kwy5dg0jt6mkwe`
+* Other: Email `ddebernardy@proton.me` for my details
 
 And yes, the irony of depending on payment rails to build their replacement is not lost on me.

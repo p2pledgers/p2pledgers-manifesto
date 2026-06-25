@@ -68,3 +68,4 @@ Thank you! Your contribution makes a world of difference. The funds will be used
 * Lightning: `ddebernardy@cake.cash`
 * Ethereum: `0x9d77b0721367CB7d818B09148D2C8332268D59A6`
 * Litecoin: `ltc1q0fmrgenmx8vrh9n0hsnefj26kwy5dg0jt6mkwe`
+* Other: Email `ddebernardy@proton.me` for my details
