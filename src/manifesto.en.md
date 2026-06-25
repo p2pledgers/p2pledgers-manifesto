@@ -2,7 +2,7 @@
 lang: en
 title: Peer-to-Peer Ledgers
 subtitle: A Manifesto for Sovereign Trade
-author: Denis de Bernardy \email{ddebernardy@proton.me}
+author: Denis de Bernardy
 date: June 24, 2026
 ---
 
