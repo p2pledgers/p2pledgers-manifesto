@@ -12,5 +12,8 @@ pandoc \
   --resource-path="$src_dir" \
   --metadata-file="$fix_dir/meta.macos.yaml" \
   --include-in-header="$fix_dir/headers.tex" \
+  --citeproc \
+  --bibliography="$fix_dir/references.bib" \
+  --csl="$fix_dir/references.csl" \
   --pdf-engine=lualatex \
   "$@"
