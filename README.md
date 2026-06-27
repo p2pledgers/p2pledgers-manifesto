@@ -1,6 +1,6 @@
 # Peer-to-Peer Ledgers - A Manifesto for Sovereign Trade
 
-The upending of finance won't emerge from a global consensus. It will instead come from a multitude of local ones. Whereas cryptocurrencies merely replace payment rails, this protocol bypasses them and hollows out the institutions. That makes it a far greater threat to central banks and central governments.
+The upending of finance won't emerge from a global consensus. It will instead come from a multitude of local ones. Whereas cryptocurrencies merely replace payment rails, this protocol bypasses them and hollows out the institutions. It exposes the machinery of modern finance for what it rests upon: peers who have collectively forgotten that they can just book their own tabs, and that money's actual source of value is their own signature.
 
 And they need to be neutered, to ensure they can no longer administer you out of your assets, retirement, or liberty---like they are doing right now.
 
