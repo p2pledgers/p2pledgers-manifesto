@@ -11,8 +11,6 @@ The manifesto is published at:
 
 - <https://ddebernardy.substack.com/p/peer-to-peer-ledgers>
 
-- <https://arxiv.org/> [TODO]
-
 
 ## Translations
 
