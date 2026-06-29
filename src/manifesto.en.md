@@ -109,23 +109,8 @@ But I digress. As noted earlier, this problem calls for a social solution, not a
 > "The greatest change we need to make is from consumption to production, even if on a small scale, in our own gardens. If only 10% of us do this, there is enough for everyone. Hence the futility of revolutionaries who have no gardens, who depend on the very system they attack, and who produce words and bullets, not food and shelter."
 
 
-# Help Out
+# Code Availability
 
-This project needs your support. The hard parts of the protocol are sketched out in the specs I've been writing, including the instruction syntax with a PEG grammar, the uses of cryptography, the transmissions and payloads, the gossip and trust APIs, the on-graph disputes and arbitration enforcement, and the master-slave and multi-master synchronization.
-
-CBDCs are looming, as you no doubt know, so time is of the essence. I'm able to complete the open-source library, but I need backing to work on it full time.
-
-If you're a like-minded engineer, the finalized specs and the reference library will be at `https://github.com/p2pledgers`. Give the project a follow.
+The project lives at `https://github.com/p2pledgers`.
 
 If you'd like to contribute to, build on, or help promote the project, get in touch: `ddebernardy@proton.me`.
-
-And if you're a concerned individual who simply wants to share this or chip in, thank you! Your contribution makes a world of difference. The funds will be used to support my family while building the library and launching apps built around it.
-
-* Monero: `41oExK A8wJWM pN9ccE HiwbgX ko5oTR KLEBPX gwGYve Qg6Jzx Aqkzvh DPb9Ed xYTARA 6RK3NV Ug3ZoY wdcDHB baJRFP CptGx`
-* Bitcoin: `bc1qvqlm8ena3sd536k0erpvxmwqzsw9t9k8spzgql`
-* Lightning: `ddebernardy@cake.cash`
-* Ethereum: `0x9d77b0721367CB7d818B09148D2C8332268D59A6`
-* Litecoin: `ltc1q0fmrgenmx8vrh9n0hsnefj26kwy5dg0jt6mkwe`
-* Other: Email `ddebernardy@proton.me` for my details
-
-And yes, the irony of depending on payment rails to build their replacement is not lost on me.
